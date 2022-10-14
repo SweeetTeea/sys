@@ -1,5 +1,3 @@
-# sys
-TEST
 注：程序仅提供参考。
 具体修改是在main.c和sleep.c的函数中
 
